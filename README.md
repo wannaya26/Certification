@@ -8,9 +8,9 @@ Here is my Certification
 
 <a name="Data-Analytics"></a>
 ## 2. Dashboard Design Principles (Skooldio)
-![KPMG Cer](https://user-images.githubusercontent.com/77894515/232320589-641cc61a-ee02-4f81-bacd-1320294b455e.jpg)
+![certificate-dashboard-design-principles_วรรณญา](https://github.com/wannaya26/Certification/assets/141702360/1a5bf6ae-2063-4d56-8013-9f5f8e42c8f7)
 
 <a name="Data-Science-Virtual"></a>
 ## 3. Power BI Essential (Skooldio)
-![image](https://user-images.githubusercontent.com/77894515/232320676-42d3fdbf-1e98-479e-b9a1-18ef75213037.png)
+![certificate-power-bi-essentials_Wannaya](https://github.com/wannaya26/Certification/assets/141702360/14c72810-47bd-4a2a-8dc8-85a214a3afe5)
 
