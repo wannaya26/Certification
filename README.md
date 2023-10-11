@@ -1,4 +1,4 @@
-# Certificated
+# Certificate
 
 Here is my Certification
 
