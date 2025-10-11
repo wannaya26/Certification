@@ -3,7 +3,7 @@
 Here is my Certification
 
 <a name="410-101 Meta (Facebook) Certified Media Buying Professional"></a>
-## 1 Meta Facebook Media Buying Professional
+## Meta (Facebook) Media Buying Professional
 ![Certified Professional Data Analyst Digital Badge](https://udemy-certificate.s3.amazonaws.com/image/UC-3b4c7764-f423-406d-bc4a-2a1dc4b1f1e9.jpg)
 
 <a name="Data-Science-Bootcamp"></a>
