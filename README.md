@@ -4,7 +4,7 @@ Here is my Certification
 
 <a name="Google-Ads-Search-Certification"></a>
 ## Google Ads Search Certification
-![Google Ads Search Certification Badge](https://github.com/wannaya26/Certification/assets/<img width="400" height="400" alt="f21a72c0-c395-48a1-aa2c-e7faa67357be" src="https://github.com/user-attachments/assets/5f62fd3e-6974-4623-9473-61fb47d18015" />
+![Google Ads Search Certification Badge](<img width="400" height="400" alt="f21a72c0-c395-48a1-aa2c-e7faa67357be" src="https://github.com/user-attachments/assets/5f62fd3e-6974-4623-9473-61fb47d18015" />
 )
 
 <a name="410-101 Meta (Facebook) Certified Media Buying Professional"></a>
