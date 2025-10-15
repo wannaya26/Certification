@@ -4,7 +4,8 @@ Here is my Certification
 
 <a name="Google-Ads-Search-Certification"></a>
 ## Google Ads Search Certification
-![Certified Professional Data Analyst Digital Badge](https://pdf.credential.net/seq2799e_1760509237097.pdf)
+![Certified Professional Data Analyst Digital Badge](<img width="400" height="400" alt="1edec709-9373-45a2-bf3a-d0fe62c7773a" src="https://github.com/user-attachments/assets/0ebcf29c-91ca-4112-be8c-41089943753e" />
+)
 
 <a name="410-101 Meta (Facebook) Certified Media Buying Professional"></a>
 ## Meta (Facebook) Media Buying Professional
