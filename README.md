@@ -2,9 +2,9 @@
 
 Here is my Certification
 
-<a name="Google Ads Search Certification"></a>
+<a name="Google-Ads-Search-Certification"></a>
 ## Google Ads Search Certification
-![Certified Professional Data Analyst Digital Badge](seq2799e_1760514363050.pdf)
+![Certified Professional Data Analyst Digital Badge](https://pdf.credential.net/seq2799e_1760509237097.pdf)
 
 <a name="410-101 Meta (Facebook) Certified Media Buying Professional"></a>
 ## Meta (Facebook) Media Buying Professional
