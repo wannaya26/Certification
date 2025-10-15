@@ -2,6 +2,10 @@
 
 Here is my Certification
 
+<a name="Google Ads Search Certification"></a>
+## Google Ads Search Certification
+![Certified Professional Data Analyst Digital Badge](https://skillshop.credential.net/a6b1d011-7b6f-4439-b91b-38c0b939bfeb#acc.VzUZcX8Q)
+
 <a name="410-101 Meta (Facebook) Certified Media Buying Professional"></a>
 ## Meta (Facebook) Media Buying Professional
 ![Certified Professional Data Analyst Digital Badge](https://udemy-certificate.s3.amazonaws.com/image/UC-3b4c7764-f423-406d-bc4a-2a1dc4b1f1e9.jpg)
