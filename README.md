@@ -10,6 +10,10 @@ Here is my Certification
 ## Meta (Facebook) Media Buying Professional
 ![Certified Professional Data Analyst Digital Badge](https://udemy-certificate.s3.amazonaws.com/image/UC-3b4c7764-f423-406d-bc4a-2a1dc4b1f1e9.jpg)
 
+<a name="Digital-Marketing-Certified"></a>
+## Digital Marketing Certified
+![Digital Marketing Certified](https://github.com/user-attachments/assets/4598d888-491a-4389-8615-382f417f9ff7)
+
 <a name="Data-Science-Bootcamp"></a>
 ## Data Science Bootcamp
 ![Certified Professional Data Analyst Digital Badge](https://user-images.githubusercontent.com/77894515/232320714-a5fc9bde-3eb8-4e51-9e7d-5a516b39d679.png)
