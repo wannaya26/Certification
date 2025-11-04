@@ -2,6 +2,10 @@
 
 Here is my Certification
 
+<a name="Foundations of Digital Marketing and E-commerce"></a>
+## Foundations of Digital Marketing and E-commerce
+![Foundations of Digital Marketing and E-commerce](https://github.com/user-attachments/assets/82e58cff-7780-4126-a445-1a0a0a4646bb)
+
 <a name="Google-Ads-Search-Certification"></a>
 ## Google Ads Search Certification
 ![Google Ads Search Certification](https://github.com/user-attachments/assets/d8da6e48-1e2c-45a4-b27c-62c4eaa57348)
