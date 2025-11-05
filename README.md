@@ -2,6 +2,11 @@
 
 Here is my Certification
 
+
+<a name="Attract and Engage Customers with Digital Marketing"></a>
+## Attract and Engage Customers with Digital Marketing
+![Attract and Engage Customers with Digital Marketing](https://github.com/user-attachments/assets/e22cca38-1cf9-4417-8f78-bbe6feb737a2)
+
 <a name="Foundations of Digital Marketing and E-commerce"></a>
 ## Foundations of Digital Marketing and E-commerce
 ![Foundations of Digital Marketing and E-commerce](https://github.com/user-attachments/assets/82e58cff-7780-4126-a445-1a0a0a4646bb)
