@@ -3,7 +3,7 @@
 Here is my Certification
 
 <a name="Interact with Customers Online"></a>
-## AInteract with Customers Online
+## Interact with Customers Online
 ![Interact with Customers Online](https://github.com/user-attachments/assets/42f99c24-9f3b-45ef-a0c8-8f2c96aa8ba8)
 
 <a name="Attract and Engage Customers with Digital Marketing"></a>
